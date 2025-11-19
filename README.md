@@ -3,7 +3,7 @@
 <h2 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Alum%20of%20MicroverseInc.&font=Fira%20Code&center=true&width=440&height=45&color=9867C5&vCenter=true&size=30&pause=1000"></h2>
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=NahnahAJ&label=Profile%20views&color=4E2A84&style=flat-cube" alt="nahnahaj" /></p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahnahdev&label=Profile%20views&color=4E2A84&style=flat-cube" alt="nahnahdev" /></p>
   
   - 🌱 Learning: **AI | Django | Flutter**
   
@@ -23,9 +23,9 @@
 <h2></h2>
 <p align="center"><img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" /></p>
 <br>    
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NahnahAJ" alt="nahnahaj" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahnahdev" alt="nahnahdev" /></a> </p>
 <br>    
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NahnahAJ&show_icons=true&theme=tokyonight" alt="nahnahaj" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nahnahdev&show_icons=true&theme=tokyonight" alt="nahnahdev" />
 <br>
 <br>
 
@@ -122,7 +122,7 @@
 
 ## 🔥 Streak stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NahnahAJ&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahnahdev&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <h2 align="left">:handshake: Connect with me:</h2>
 
